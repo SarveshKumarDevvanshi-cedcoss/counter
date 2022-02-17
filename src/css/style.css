@@ -1,0 +1,6 @@
+.count{
+    display: flex;
+}
+.btn, #counter{
+    margin: 5px;
+}
